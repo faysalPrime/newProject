@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1541705990 source:e:\lab work cse225\assignment 06 lab\main.cpp
+	<iostream>
+	"stacktype.cpp"
+
+1541779411 e:\lab work cse225\assignment 06 lab\stacktype.cpp
+	"StackType.h"
+
+1540627146 e:\lab work cse225\assignment 06 lab\stacktype.h
+
